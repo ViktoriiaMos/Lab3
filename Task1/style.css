@@ -16,28 +16,28 @@ height: 600px;
 
 #right{
     background: #929ee5;
-    height: 400px;
-    width: 150px;
+    height: 60%;
+    width: 25%;
     float: left;
 }
 #left{
     background: #71aeeb;
-    height: 400px;
-    width: 750px;
+    height: 60%;
+    width: 75%;
     float: right;
 }
 
 #ing {
     background: #3739d7;
-    width: 900px;
-    height: 100px;
+    width: 100%;
+    height: 20%;
     float: left;
 }
 
 #text {
     background: #c9d87e;
-    width: 900px;
-    height: 100px;
+    width: 100%;
+    height: 20%;
     float: left;
 }
   
